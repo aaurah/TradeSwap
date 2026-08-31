@@ -1,0 +1,7 @@
+{
+  "name": "TradeSwap - Instant Cross-Chain Crypto Swap",
+  "description": "Non-custodial instant cryptocurrency exchange featuring 22M+ market pairs, cross-chain liquidity providers, fixed & floating rates, and seamless token swapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
